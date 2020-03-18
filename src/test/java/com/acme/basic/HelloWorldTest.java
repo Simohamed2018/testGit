@@ -18,4 +18,9 @@ public class HelloWorldTest {
   public void covered() {
     new HelloWorld().covered();
   }
+
+  @Test
+  public void sayhi() {
+    new HelloWorld().sayHi();
+  }
 }
