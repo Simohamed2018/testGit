@@ -10,4 +10,8 @@ public class HelloWorld {
     System.out.println("This method is not covered by unit tests tests");
   }
 
+  void covered() {
+    System.out.println("This method is not covered by unit tests tests");
+  }
+
 }
